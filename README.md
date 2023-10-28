@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 🚀
 
-![Profile Image]([your-profile-image-url-here](https://avatars.githubusercontent.com/u/19695659?s=400&u=c0d803de98a4fcf13201aaf8f05de905653df447&v=4))
+![Profile Image](https://avatars.githubusercontent.com/u/19695659?s=400&u=c0d803de98a4fcf13201aaf8f05de905653df447&v=4)
 
 Greetings, fellow explorer of the digital realm! I'm your go-to .NET wizard, a JavaScript enthusiast, a Python skeptic, and a hardcore foodie. This README is your magic portal to my kingdom of code, so fasten your seatbelt and let's embark on this whimsical journey together!
 
@@ -10,7 +10,7 @@ Greetings, fellow explorer of the digital realm! I'm your go-to .NET wizard, a J
 - **Location:** The land of bits and bytes
 - **Occupation:** .NET Alchemist, JavaScript Sorcerer, and Foodie Extraordinaire
 - **LinkedIn:** [Your Magical Profile]([https://www.linkedin.com/your-profile](https://www.linkedin.com/in/mamoon-rasheed-88ba3b112/))
-- **Email:** mamoonrasheed316@gmail.com
+- **Email:** mamoonrasheed416@gmail.com
 
 ## Unveiling My Enchanted Arsenal
 

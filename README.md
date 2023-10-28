@@ -1,7 +1,5 @@
 # Welcome to My GitHub Profile 🚀
 
-![Profile Image](https://avatars.githubusercontent.com/u/19695659?s=400&u=c0d803de98a4fcf13201aaf8f05de905653df447&v=4)
-
 Greetings, fellow explorer of the digital realm! I'm your go-to .NET wizard, a JavaScript enthusiast, a Python skeptic, and a hardcore foodie. This README is your magic portal to my kingdom of code, so fasten your seatbelt and let's embark on this whimsical journey together!
 
 ## The Wizard Behind the Code

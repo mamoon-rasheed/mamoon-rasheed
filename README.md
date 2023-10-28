@@ -12,7 +12,7 @@ Greetings, fellow explorer of the digital realm! I'm your go-to .NET wizard, a J
 
 ## Unveiling My Enchanted Arsenal
 
-### 🪄 .NET Developer - Master of Digital Alchemy
+### 🧙‍♂️ .NET Developer - Master of Digital Alchemy
 
 As a .NET developer, I wield the art of digital alchemy to craft powerful, secure, and scalable wonders. My GitHub repositories are filled with enchanting spells that bring software dreams to life, from web applications to desktop marvels.
 
@@ -20,7 +20,7 @@ As a .NET developer, I wield the art of digital alchemy to craft powerful, secur
 
 In the realm of JavaScript, I am a Sorcerer, conjuring interactive web experiences, breathing life into static pages, and crafting user interfaces that mesmerize. Discover the secrets of my JavaScript spells, from the enchanting React to the mystical world of Node.js.
 
-### 🧙‍♂️ Python Puzzler - A Playful Rivalry with the Serpentine Code
+### 🌟 Python Puzzler - A Playful Rivalry with the Serpentine Code
 
 Ah, Python, the serpent of code! We share a playful rivalry. While I jest about it, I can't deny its charming simplicity. Explore my "Python-adjacent" experiments, where I tip my hat to the serpentine language in good humor.
 

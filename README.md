@@ -30,7 +30,7 @@ When I'm not weaving code spells, I embark on culinary quests. My GitHub houses 
 
 ## Magic Mirror on the Wall, Who's the Followed One of All?
 
-Let's weave our destinies together! Follow me on GitHub and together, we'll embark on an epic adventure filled with code, creativity, and culinary delights. 🪄
+Let's weave our destinies together! Follow me on GitHub and together, we'll embark on an epic adventure filled with code, creativity, and culinary delights. 🌟
 
 [![Follow Me on GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/mamoon-rasheed)
 

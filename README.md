@@ -7,7 +7,7 @@ Greetings, fellow explorer of the digital realm! I'm your go-to .NET wizard, a J
 - **Name:** Mamoon Rasheed
 - **Location:** The land of bits and bytes
 - **Occupation:** .NET Alchemist, JavaScript Sorcerer, and Foodie Extraordinaire
-- **LinkedIn:** ([https://www.linkedin.com/mamoon-rasheed-88ba3b112])
+- **LinkedIn:** [Your Mystical Profile](https://www.linkedin.com/mamoon-rasheed-88ba3b112)
 - **Email:** mamoonrasheed416@gmail.com
 
 ## Unveiling My Enchanted Arsenal

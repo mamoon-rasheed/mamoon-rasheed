@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B058&center=true&multiline=true&random=false&lines=Mamoon+Rasheed;full-stack+dotnet+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7B058&center=true&multiline=true&random=false&width=768&height=100&lines=Mamoon+Rasheed;full-stack+dotnet+developer)](https://git.io/typing-svg)
 
 ## Welcome to My GitHub Profile 🚀
 

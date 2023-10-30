@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B058&center=true&multiline=true&random=false&width=435&lines=Mamoon+Rasheed;full-stack+dotnet+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B058&center=true&multiline=true&random=false&lines=Mamoon+Rasheed;full-stack+dotnet+developer)](https://git.io/typing-svg)
 # Welcome to My GitHub Profile 🚀
 
 Hello there, digital explorer! I'm Mamoon Rasheed, a developer versed in .NET, JavaScript, and a dash of Python. When not coding, I'm on culinary quests. Let's dive into my world!

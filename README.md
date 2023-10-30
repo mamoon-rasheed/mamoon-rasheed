@@ -12,7 +12,7 @@ Hello there, digital explorer! I'm Mamoon Rasheed, a developer versed in .NET, J
 ![Mamoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamoon-rasheed&theme=ayu-mirage&show_icons=true)
 
 <h3 align="left">Languages and Tools:</h3>
-<p style="background-color: #fff;padding: 4px;">
+<p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
         width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
@@ -38,7 +38,6 @@ Hello there, digital explorer! I'm Mamoon Rasheed, a developer versed in .NET, J
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
         alt="mysql" width="40" height="40" />
 </p>
-
 
 Let's Connect
 Follow me on GitHub, and together, we'll explore code, creativity, and culinary delights. 🌟

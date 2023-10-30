@@ -9,8 +9,6 @@ Hello there, digital explorer! I'm Mamoon Rasheed, a developer versed in .NET, J
 3. 🌟 Python Curiosity I enjoy experimenting with Python and appreciate its simplicity.
 4. 🍔 Foodie Explorer Beyond coding, I love eating food.
 
-![Mamoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mamoon-rasheed&theme=ayu-mirage&show_icons=true)
-
 <h3 align="left">Languages and Tools:</h3>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"

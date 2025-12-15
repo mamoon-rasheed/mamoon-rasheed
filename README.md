@@ -25,19 +25,39 @@ I actively support the local economy in Turbat by developing custom software sol
 
 ### 🛠️ Tech Stack & Tools
 
-**Backend & Enterprise:**
-* C# / .NET Core / ASP.NET MVC
-* Entity Framework / LINQ
-* RESTful APIs
-
-**Mobile & Frontend:**
-* Flutter (Dart)
-* HTML5 / CSS3 / JavaScript / Bootstrap
-
-**Database:**
-* Microsoft SQL Server
-* MySQL
-* PostgreSQL
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>🔙 Backend & Enterprise</h3>
+      <ul>
+        <li>C#</li>
+        <li>.NET Core</li>
+        <li>ASP.NET MVC</li>
+        <li>Entity Framework / LINQ</li>
+        <li>RESTful APIs</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>📱 Mobile & Web</h3>
+      <ul>
+        <li>Flutter (Dart)</li>
+        <li>HTML5 / CSS3</li>
+        <li>JavaScript</li>
+        <li>Bootstrap</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h3>🗄️ Database & Tools</h3>
+      <ul>
+        <li>Microsoft SQL Server</li>
+         <li>MySQL</li>
+         <li>PostgreSQL</li>
+        <li>Visual Studio</li>
+        <li>Git / GitHub</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -27,7 +27,7 @@ I actively support the local economy in Turbat by developing custom software sol
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top">
       <h3>🔙 Backend & Enterprise</h3>
       <ul>
         <li>C#</li>
@@ -37,7 +37,7 @@ I actively support the local economy in Turbat by developing custom software sol
         <li>RESTful APIs</li>
       </ul>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top">
       <h3>📱 Mobile & Web</h3>
       <ul>
         <li>Flutter (Dart)</li>
@@ -46,7 +46,7 @@ I actively support the local economy in Turbat by developing custom software sol
         <li>Bootstrap</li>
       </ul>
     </td>
-    <td valign="top" width="33%">
+    <td valign="top">
       <h3>🗄️ Database & Tools</h3>
       <ul>
         <li>Microsoft SQL Server</li>
